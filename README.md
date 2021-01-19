@@ -14,7 +14,7 @@ IntelliJ IDEA 2020.2.2 x64
 4. 项目导入idea
 5. 到src/main/resources下的application.properties下修改你的数据库链接用户名与密码，主要是mysql数据库和redis数据库
 6. 启动前，检查配置 application.properties 中相关redis、mysql、rabbitmq地址
-7. ![image-20210119194223558](C:\Users\mujou\AppData\Roaming\Typora\typora-user-images\image-20210119194223558.png)
+7. ![image-20210119194223558](./img/image-20210119194223558.png)
 8. 在数据库秒杀商品表里面设置合理的秒杀开始时间与结束时间
 9. 登录地址：http://localhost:8080/login/to_login
 10. 商品秒杀列表地址：http://localhost:8080/goods/to_list
